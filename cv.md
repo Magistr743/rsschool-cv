@@ -27,7 +27,7 @@ Discord : Killnod(@Magistr743)
 
  
 
-## About Me
+## Summary 
 
 Good day.
 My name is Sergey.
@@ -100,7 +100,7 @@ function multiply(a, b){
 
 
 
-## Work examples:
+## Projects:
 My CV
 
 
@@ -111,10 +111,7 @@ https://github.com/Magistr743/rsschool-cv/blob/gs-pages/cv.md
 
 ## Education
 
-Bachelor, Academy of the Ministry of Internal Affairs Republic of Belarus
-
-
-Lawyer, Judicial-Prosecution-Investigative
+Bachelor, Lawyer, Judicial-Prosecution-Investigative
 
 
 ## Languages
